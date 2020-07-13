@@ -1,0 +1,89 @@
+body{ margin:0;
+	  padding: 0;
+	  background:;
+	 }
+.para1 { 
+		display:inline; 
+		margin-left: 20px; 
+		color:#827d7d ;	
+		}
+.para1 .change_store{
+	color:#827d7d ;
+}
+.right-menu{
+	 margin-right:20px;
+	 float: right;
+}
+.right-menu-style{
+	 display: inline;
+	  color: #a8a4a4;
+	   text-decoration: none;
+	   margin-right: 5px;
+}
+.border_area{
+	width:100%;
+	margin-top: 30px;
+	background-color:#e8e8e8;
+}
+.para2{
+	padding:10px;
+	display: inline;
+}
+.boay-head-left-text{
+	float: right;
+}
+.para-head{
+	margin-right:10px;
+	display: inline;
+	font-weight: bold;
+}
+.red_border_area{
+	height: 5px;
+	 background-color: red;
+}
+.my_account_heading{
+	margin-top:50px; 
+	margin-right: 140px;
+	text-align: center;
+	font-size: 35px;
+}
+.left-box{
+	width:225px; 
+	height:200px;
+	 background-color: #858585;
+	  margin:50px;
+}
+
+.ul-style{
+	list-style: none; 
+	margin-left: -20px;
+}
+li .btn-as{
+	margin-top:10px;
+	 height:50px; 
+	 width:205px;
+	 font-size: 15px;
+	 border-style: none; 
+	 border-radius:2px;
+}
+li .btn-ps{
+	margin-top:10px;
+	 height:50px;
+	  width:205px;
+	  font-size: 15px;
+	  background-color: Transparent; 
+	  color: white;
+	   border:none;
+}
+li .btn-cp{
+	margin-top:10px; 
+	height:50px; 
+	width:205px;
+	font-size: 15px;
+	background-color: Transparent; 
+	color: white;
+	 border:none;"
+}
+.edit-font-color{
+	color: #858585;
+}
